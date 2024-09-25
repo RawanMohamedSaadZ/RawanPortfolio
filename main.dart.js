@@ -13852,7 +13852,7 @@ _.fr=null},
 yY:function yY(){},
 Ne:function Ne(){},
 akH(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e
-if(a==null)a=B.he
+if(a==null)a=B.hd
 s=J.aU(a)
 r=s.gq(a)-1
 q=A.bk(0,null,!1,t.LQ)
@@ -14008,7 +14008,7 @@ q.gtQ(q)
 p.stQ(0,q.gtQ(q))
 q.gtP()
 p.stP(q.gtP())
-r.jG(0,B.he,p)
+r.jG(0,B.hd,p)
 r.saK(0,b.gaK(b))
 r.sbp(0,b.gbp(b))
 r.dy=b.ga8D()
@@ -51303,7 +51303,7 @@ q.xr=c.p3
 q.y1=c.p4
 q.z=c.b
 q.y2=c.av
-q.YK(b==null?B.he:b)
+q.YK(b==null?B.hd:b)
 if(s!==r)q.HO()},
 Mf(a,b){return this.jG(0,null,b)},
 MV(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7=this,a8={}
@@ -62467,7 +62467,7 @@ go8(){return A.aB_()},
 W4(){if(this.x)return
 this.r6()},
 MU(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b=d.c
-if(b===-1||d.d===-1||d.b.length===0)return new A.kW(c,c,B.bj,B.hd,d.b.length!==0)
+if(b===-1||d.d===-1||d.b.length===0)return new A.kW(c,c,B.bj,B.hc,d.b.length!==0)
 if(!d.as){b=d.CU(d.d,b)
 d.d=b
 d.c=d.CU(d.c,b)}s=J.fp(d.b[d.d])
@@ -64697,7 +64697,7 @@ a3=$.ag8
 a3.toString
 a4=t.p
 b=A.b([a2,a3,A.c3(a5,a5,B.bc,a5,a,a5,a5,b*30*0.77+30)],a4)
-a=new A.e6(B.hf,t.ly)
+a=new A.e6(B.he,t.ly)
 B.b.M(b,a.gcn(a).cr(0,new A.Rj(),t.l7))
 q=A.Ve(A.c3(a5,A.dn(A.b([o,n,m,l,k,j,i,h,g,h,f,e,d,c,a0,B.H6,a1,A.d4(b,B.q,B.U)],a4),B.al,B.q),a5,a5,a5,a5,new A.b4(p,0,0,0),a5),q)
 return A.c3(a5,A.dn(A.b([B.fW,B.fX,s,A.d4(A.b([a8,q,A.c3(a5,a5,a5,a5,a5,a5,a5,r?a9*0.05:a9*0.1)],a4),B.q,B.U)],a4),B.Z,B.q),a5,a5,a5,a5,a7,a5)}}
@@ -64741,7 +64741,7 @@ f=A.a2($.AH).h("an<1,hv>")
 f=A.d4(A.a5(new A.an($.AH,new A.Rk(),f),!0,f.h("aQ.E")),B.da,B.U)
 e=$.d5
 e.toString
-d=new A.e6(B.hf,t.ly)
+d=new A.e6(B.he,t.ly)
 return A.c3(c,A.dn(A.b([B.fW,B.fX,a1,s,new A.fS(B.iR,c,c,r,c),q,p,n,m,l,k,j,i,j,h,g,f,e,A.oy(B.aL,$.b7*0.5*0.77+0.5),A.bX(c,o,c),B.wI,B.fb,new A.iF("From","Alexandria, Egypt",c),e,A.Fs(B.ip,new A.Rl()),e,A.xq(B.c1,d.gcn(d).cr(0,new A.Rm(),t.c5).cg(0),B.dD,0,0)],t.p),B.Z,B.q),c,c,c,c,a0,c)}}
 A.Rk.prototype={
 $1(a){return new A.hv(a,null)},
@@ -64791,7 +64791,7 @@ a=$.b7
 a=A.bX(A.Fs(B.ip,new A.Ro()),a*13*0.77+13,a*40*0.77+40)
 a0=$.HN
 a0.toString
-a1=new A.e6(B.hf,t.ly)
+a1=new A.e6(B.he,t.ly)
 return A.c3(a2,A.dn(A.b([B.yC,B.yD,s,r,q,p,o,n,m,l,k,j,i,j,h,g,f,e,f,c,b,A.d4(A.b([a,a0,A.c3(a2,a2,a2,new A.dC(a2,a2,new A.cY(B.n,B.n,new A.bC(B.bc,2,B.N,-1),B.n),a2,a2,a2,B.aD),a2,a2,a2,a6*0.05),new A.Ht(B.aJ,A.d4(a1.gcn(a1).cr(0,new A.Rp(),t.c5).cg(0),B.q,B.U),a2)],d),B.q,B.U)],d),B.cN,B.q),a2,a2,a2,a2,a4,a2)}}
 A.Rn.prototype={
 $1(a){return new A.hv(a,null)},
@@ -65099,11 +65099,11 @@ r=A.iO(B.zW,n,n)
 q=A.Cb(A.bX(A.eY("assets/projects/Personal1.png",n,B.fi,n),250,250))
 p=$.d5
 p.toString
-o=new A.e6(B.hc,t.ly)
+o=new A.e6(B.hf,t.ly)
 return A.c3(n,A.dn(A.b([new A.iT("\nWhat I can do?",n),B.ka,r,q,p,A.xq(B.c1,o.gcn(o).cr(0,new A.a4g(),t.m1).cg(0),B.dD,l.a.b*0.05,m.a.a*0.05)],t.p),B.Z,B.q),n,n,n,n,new A.b4(s,0,s,0),n)}}
 A.a4g.prototype={
 $1(a){var s=a.a
-return new A.jT(B.hc[s],B.kP[s],B.l5[s],null)},
+return new A.jT(B.hf[s],B.kP[s],B.l5[s],null)},
 $S:425}
 A.Ho.prototype={
 I(a){var s,r,q=null,p=t.w,o=A.b0(a,q,p).w
@@ -65114,7 +65114,7 @@ r=$.d5
 r.toString
 return A.dn(A.b([B.zV,B.ka,p,s,r,A.SE(new A.a4h(),6,A.SD(!0,B.aO,B.at,B.e5,!1,!0,o.a.b*0.4,0.65))],t.p),B.Z,B.q)}}
 A.a4h.prototype={
-$3(a,b,c){return new A.ca(B.kl,new A.jT(B.hc[c],B.kP[c],B.l5[c],null),null)},
+$3(a,b,c){return new A.ca(B.kl,new A.jT(B.hf[c],B.kP[c],B.l5[c],null),null)},
 $S:54}
 A.jT.prototype={
 af(){return new A.O6(new A.br(null,t.Fa))}}
@@ -69369,7 +69369,6 @@ B.kU=A.b(s([0,0,32776,33792,1,10240,0,0]),t.t)
 B.kV=A.b(s(["https://github.com/RawanMohamedSaadZ/Flutter-EBook.git","https://github.com/RawanMohamedSaadZ/Flutter_AI_integration_APP-master.git","https://drive.google.com/file/d/1kVgn_Onqi913tmT7P9yRN0dlJYAkxS75/view","https://drive.google.com/file/d/1VHzqjG9DakkTwFpXphXmOWcXNwBhfbLT/view?usp=sharing"]),t.s)
 B.kW=A.b(s(["Technical Instructor@Sem;colon","AAST E Magazine @AAST","Awards @AAST","AAST CCIT Students' Council","Competitior @ Hands","ECPC Egyptian Collegiate Programming Contest","Volunteer @ AAST"]),t.s)
 B.kX=A.b(s(["assets/projects/Book.png","assets/projects/banner.png","assets/projects/Publishing.png","assets/projects/Architecture in Flutter1.jpg"]),t.s)
-B.hc=A.b(s(["assets/services/blog.png","assets/services/app.png","assets/services/Icon_dentistry.png","assets/services/open.png","assets/services/ui.png","assets/services/rapid.png"]),t.s)
 B.AF=new A.fu(1)
 B.AG=new A.fu(2)
 B.D=new A.fu(3)
@@ -69387,9 +69386,9 @@ B.D4=A.b(s([]),t.tc)
 B.eg=A.b(s([]),t.jl)
 B.D6=A.b(s([]),t.fy)
 B.D5=A.b(s([]),A.av("y<afQ<@>>"))
-B.hd=A.b(s([]),t.AO)
+B.hc=A.b(s([]),t.AO)
 B.D9=A.b(s([]),t.D1)
-B.he=A.b(s([]),t.l)
+B.hd=A.b(s([]),t.l)
 B.kZ=A.b(s([]),t.s)
 B.ag=A.b(s([]),t.oU)
 B.D8=A.b(s([]),t.Lx)
@@ -69406,7 +69405,7 @@ B.zM=new A.Co(null)
 B.AJ=new A.DG(null)
 B.Da=A.b(s([B.AQ,B.wL,B.HS,B.GK,B.wN,B.zM,B.AJ]),t.p)
 B.l1=A.b(s(["I learned the responsibility of managing a large group of students and creating ppt presentations, explaining educational content for 3 hours. I taught students of various ages.I focused on workshops that covered both technical and soft skills.","Head of Writing & Creative Content Creator& visual identity development. I wrote many Article","I received an award from the Arab Academy for Science and Technology for achieving 3rd place in Poetry, Public Speaking, and Writing.","Head of Culture& Leadership ","Competition At Arab Academy for Science and Technology ","Contestant @ ECPC Qualifications ","Hr & Public Relations Specialist& Organizer & Marketing "]),t.s)
-B.hf=A.b(s(["assets/work/Semicolon.png","assets/work/AAST_AI.png"]),t.s)
+B.he=A.b(s(["assets/work/Semicolon.png","assets/work/AAST_AI.png"]),t.s)
 B.wn=new A.qe(0,"topLeft")
 B.wq=new A.qe(3,"bottomRight")
 B.Og=new A.jN(B.wn,B.wq)
@@ -69426,6 +69425,7 @@ B.hz=new A.f3(6,"scrollLockModifier")
 B.hA=new A.f3(7,"functionModifier")
 B.qb=new A.f3(8,"symbolModifier")
 B.l2=A.b(s([B.cc,B.cd,B.ce,B.cf,B.hx,B.hy,B.hz,B.hA,B.qb]),A.av("y<f3>"))
+B.hf=A.b(s(["assets/services/blog.png","assets/services/app.png","assets/services/germany.png","assets/services/open.png","assets/services/ui.png","assets/services/rapid.png"]),t.s)
 B.Dc=A.b(s(["https://www.facebook.com/rawnamohamed.sad/","https://www.instagram.com/rawnamohamed.sad/","https://www.linkedin.com/in/rawan-mohamed-saad/","https://github.com/RawanMohamedSaadZ"]),t.s)
 B.AZ=new A.cT(58513)
 B.B1=new A.cT(59122)
@@ -70511,8 +70511,8 @@ B.hZ=new A.pF(1,"nextLine")
 B.eI=new A.pF(2,"forward")
 B.eJ=new A.pF(3,"backward")
 B.bj=new A.wn(2,"none")
-B.ve=new A.kW(null,null,B.bj,B.hd,!1)
-B.vd=new A.kW(null,null,B.bj,B.hd,!0)
+B.ve=new A.kW(null,null,B.bj,B.hc,!1)
+B.vd=new A.kW(null,null,B.bj,B.hc,!0)
 B.r=new A.kX(0,"next")
 B.u=new A.kX(1,"previous")
 B.w=new A.kX(2,"end")
