@@ -64852,7 +64852,7 @@ $S:54}
 A.DY.prototype={
 I(a){return B.H_}}
 A.DW.prototype={
-I(a){var s,r,q,p,o=null,n="Montserrat",m=A.b0(a,o,t.w).w.a,l=m.b,k=$.ii,j=A.vA(0,A.vk(new A.eV(A.Cb(A.eY("assets/photos/homeRawan.png",o,B.fi,m.a<1200?l*0.8:l*0.85)),B.aN,B.aO,B.h,o),0.9),o,o,o,0,o,o),i=$.b7,h=t.p,g=A.d4(A.b([A.bp("WELCOME TO MY WORLD! ",$.dN.fT(n),o),new A.eV(A.eY("assets/hi.gif",o,o,$.b7*12*0.77+12),B.cQ,B.aO,B.h,o)],h),B.q,B.bK),f=$.hn
+I(a){var s,r,q,p,o=null,n="Montserrat",m=A.b0(a,o,t.w).w.a,l=m.b,k=$.ii,j=A.vA(0,A.vk(new A.eV(A.Cb(A.eY("assets/photos/homeRawan1.png",o,B.fi,m.a<1200?l*0.8:l*0.85)),B.aN,B.aO,B.h,o),0.9),o,o,o,0,o,o),i=$.b7,h=t.p,g=A.d4(A.b([A.bp("WELCOME TO MY WORLD! ",$.dN.fT(n),o),new A.eV(A.eY("assets/hi.gif",o,o,$.b7*12*0.77+12),B.cQ,B.aO,B.h,o)],h),B.q,B.bK),f=$.hn
 f.toString
 s=A.bp("Rawan",$.RP.y6($.b7*25*0.77+25,1),o)
 r=A.bp("Mohamed Saad ",$.Bt.Jf(n,$.b7*25*0.77+25,B.h3),o)
@@ -64861,7 +64861,7 @@ p=$.HO
 p.toString
 return A.c3(o,A.jD(B.b7,A.b([j,A.c3(o,A.dn(A.b([g,f,s,r,new A.eV(q,B.aN,B.aO,B.qm,o),p,B.ii],h),B.al,B.q),o,o,o,new A.b4(i*30*0.77+30,i*80*0.77+80,0,0),o,o)],h),B.bU),o,o,l*1.025,o,k,o)}}
 A.DX.prototype={
-I(a){var s,r,q,p,o,n,m=null,l="Montserrat",k=A.b0(a,m,t.w).w,j=$.b7,i=A.vA(0,A.vk(A.Cb(A.eY("assets/photos/homeRawan.png",m,m,j*150*0.77+150)),0.9),m,m,m,-(j*25*0.77+25),m,m),h=A.bp("Welcome to my achievements! ",$.rv.fT(l),m),g=$.HN
+I(a){var s,r,q,p,o,n,m=null,l="Montserrat",k=A.b0(a,m,t.w).w,j=$.b7,i=A.vA(0,A.vk(A.Cb(A.eY("assets/photos/homeRawan1.png",m,m,j*150*0.77+150)),0.9),m,m,m,-(j*25*0.77+25),m,m),h=A.bp("Welcome to my achievements! ",$.rv.fT(l),m),g=$.HN
 g.toString
 s=t.p
 g=A.d4(A.b([h,g,A.eY("assets/hi.gif",m,m,$.b7*10*0.77+10)],s),B.q,B.bK)
@@ -64876,7 +64876,7 @@ n=$.d5
 n.toString
 return A.bX(A.jD(B.b7,A.b([i,A.c3(m,A.dn(A.b([g,h,r,q,p,o,n,B.ii],s),B.al,B.q),m,m,m,new A.b4(j*10*0.77+10,j*40*0.77+40,0,0),m,m)],s),B.bU),k.a.b*1.02,m)}}
 A.DZ.prototype={
-I(a){var s,r,q,p,o=null,n="Montserrat",m=A.b0(a,o,t.w).w.a,l=m.b,k=A.vA(0,A.vk(new A.eV(A.Cb(A.eY("assets/photos/homeRawan.png",o,o,m.a<1200?l*0.75:l*0.85)),B.aN,B.aO,B.h,o),0.9),o,o,o,0,o,o),j=$.b7,i=t.p,h=A.d4(A.b([A.bp("WELCOME TO MY PORTFOLIO! ",$.rv.fT(n),o),new A.eV(A.eY("assets/hi.gif",o,o,$.b7*12*0.77+12),B.cQ,B.aO,B.h,o)],i),B.q,B.bK),g=$.hn
+I(a){var s,r,q,p,o=null,n="Montserrat",m=A.b0(a,o,t.w).w.a,l=m.b,k=A.vA(0,A.vk(new A.eV(A.Cb(A.eY("assets/photos/homeRawan1.png",o,o,m.a<1200?l*0.75:l*0.85)),B.aN,B.aO,B.h,o),0.9),o,o,o,0,o,o),j=$.b7,i=t.p,h=A.d4(A.b([A.bp("WELCOME TO MY PORTFOLIO! ",$.rv.fT(n),o),new A.eV(A.eY("assets/hi.gif",o,o,$.b7*12*0.77+12),B.cQ,B.aO,B.h,o)],i),B.q,B.bK),g=$.hn
 g.toString
 s=A.bp("Rawan",$.RP.y6($.b7*25*0.77+25,1),o)
 r=A.bp("Mohamed Saad ",$.Bt.Jf(n,$.b7*25*0.77+25,B.h3),o)
